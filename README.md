@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently working on: Advanced Python Programming and Frontend Webdev
-- 🌱 I’m currently learning C++, Java
+- 🌱 I’m currently learning C++, Java, maybe even some backend!
 - 👯 I’m looking to collaborate on: webdev projects, data analysis, and maybe even gamedev!
 - 🤔 I’m looking for help with: More advanced C++ and Java concepts
 - 💬 Ask me about: anything, really!
