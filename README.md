@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**justanotherinternetguy/justanotherinternetguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there! 👋
 
 - 🔭 I’m currently working on: Advanced Python Programming and Frontend Webdev
 - 🌱 I’m currently learning C++, Java
