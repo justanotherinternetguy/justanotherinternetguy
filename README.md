@@ -8,8 +8,8 @@
 - 📫 How to reach me: My discord- justanotherinternetguy#6982
 - 😄 Pronouns: He/Him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherinternetguy&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherinternetguy&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanotherinternetguy&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanotherinternetguy&show_icons=true&theme=radical)
 
