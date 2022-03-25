@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on: Advanced Python Programming and Frontend Webdev
-- 🌱 I’m currently learning C++, Java
-- 👯 I’m looking to collaborate on: webdev projects, data analysis, and maybe even gamedev!
+- 🔭 I’m currently working on: Advanced Java, Data Modeling, Some Frontend Webdev as well
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on: Data analysis / modeling, frontend, perhaps even gamedev
 - 🤔 I’m looking for help with: More advanced C++ and Java concepts
 - 💬 Ask me about: anything, really!
 - 📫 How to reach me: My discord- justanotherinternetguy#6982
