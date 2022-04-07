@@ -1,15 +1,28 @@
-### Hi there! 👋
+<h1 align="center">justanotherinternetguy</h1>
 
-- 🔭 I’m currently working on: Advanced Java, Data Modeling, Some Frontend Webdev as well
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on: Data analysis / modeling, frontend, perhaps even gamedev
-- 🤔 I’m looking for help with: More advanced C++ and Java concepts
-- 💬 Ask me about: anything, really!
-- 📫 How to reach me: My discord- justanotherinternetguy#6982
-- 😄 Pronouns: He/Him
+<h4 align="center">Languages</h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherinternetguy&show_icons=true&theme=radical)
+<!-- Languages -->
+<div align="center">
+  <img style="height:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  
+  <img style="height:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
+  <img style="height:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  
+  <img style="height:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img style="height:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+<hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanotherinternetguy&show_icons=true&theme=radical)
+<p align="center">Hi! I am a teenager learning to code in Java and C++. I'm already fluent in Python. Along with these three general-purpose languages, I am also an avid frontend web developer.</p>
 
+<div style="text-align: center;">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherinternetguy&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanotherinternetguy&show_icons=true&theme=onedark)
+
+</div>
+
+<b>CONTACT ME</b>: justanotherinternetguy#6982 (discord)
