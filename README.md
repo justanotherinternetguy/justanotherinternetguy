@@ -17,7 +17,7 @@
 
 <p align="center">Hi! I am a teenager learning to code in Java and C++. I'm already fluent in Python. Along with these three general-purpose languages, I am also an avid frontend web developer.</p>
 
-<div style="text-align: center;">
+<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherinternetguy&show_icons=true&theme=onedark)
 
