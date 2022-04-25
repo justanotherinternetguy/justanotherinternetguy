@@ -15,7 +15,7 @@
 </div>
 <hr />
 
-<p align="center">Hi! I am a teenager learning to code in C++. I'm already fluent in Python and Java. Along with these three general-purpose languages, I am also an avid frontend web developer.</p>
+<p align="center">Hi! I am a teenager learning to code in C++. I'm already fluent in Python and Java. I am also an avid front-end dev and learning C++.</p>
 
 <div align="center">
   
@@ -26,3 +26,10 @@
 </div>
 
 <b>CONTACT ME</b>: justanotherinternetguy#6982 (discord)
+
+
+<h3>
+  // TOOD: 
+  // GKS Solutions + website
+  // Update templates
+</h3>
