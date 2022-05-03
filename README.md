@@ -31,5 +31,5 @@
 <h3>
   // TOOD: <br />
   // GKS Solutions + website <br />
-  // Update templates <br />
+  // Update CP Solutions <br />
 </h3>
