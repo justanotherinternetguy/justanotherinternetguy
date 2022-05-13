@@ -15,7 +15,7 @@
 </div>
 <hr />
 
-<p align="center">Hi! I am a teenager learning to code in C++. I'm already fluent in Python and Java. I am also an avid front-end dev and learning C++.</p>
+<p align="center">Hi! I am a teenager learning to code.</p>
 
 <div align="center">
   
