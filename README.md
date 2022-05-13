@@ -28,8 +28,3 @@
 <b>CONTACT ME</b>: justanotherinternetguy#6982 (discord)
 
 
-<h3>
-  // TOOD: <br />
-  // GKS Solutions + website <br />
-  // Update CP Solutions <br />
-</h3>
