@@ -21,8 +21,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherinternetguy&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanotherinternetguy&show_icons=true&theme=onedark)
-
 </div>
 
 <b>CONTACT ME</b>: justanotherinternetguy#6982 (discord)
