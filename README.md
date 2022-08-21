@@ -1,7 +1,10 @@
 <h1 align="center">justanotherinternetguy</h1>
 <hr />
 
-<p align="center">Hi! I am a teenager learning to code.</p>
+<ul>
+<li>Python</li>
+
+</ul>
 
 <div align="center">
   
