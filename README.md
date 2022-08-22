@@ -17,8 +17,6 @@
 <li>Numpy</li>
 <li>Scipy</li>
 <li>Matplotlib</li>
-<li>YOLO Obj. Detection</li>
-<li>HUGO</li>
 </ul>
 
 <div align="center">
