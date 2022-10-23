@@ -8,6 +8,6 @@ teenager learning to code, hmu on discord (below)
 
 </div>
 
-<b>CONTACT ME</b>: justanotherinternetguy#6982 (discord)
+<b>CONTACT ME</b>: justanotherinternetguy#9404 (discord)
 
 
