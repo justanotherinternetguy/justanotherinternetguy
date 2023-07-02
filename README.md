@@ -11,3 +11,5 @@ teenager learning to code, hmu on discord (below)
 <b>CONTACT ME</b>: one.ring (discord)
 
 
+<h1 align="center">https://justanotherinternetguy.github.io/modern/</h1>
+
