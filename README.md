@@ -8,7 +8,7 @@ teenager learning to code, hmu on discord (below)
 
 </div>
 
-<b>CONTACT ME</b>: <code>userspace</code> (discord)
+<b>CONTACT ME</b>: <code>the.wired</code> (discord)
 
 
 <h1 align="center">https://justanotherinternetguy.github.io/modern/</h1>
