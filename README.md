@@ -11,5 +11,5 @@ teenager learning to code, hmu on discord (below)
 <b>CONTACT ME</b>: <code>naxarra</code> (discord)
 
 
-<h1 align="center">https://justanotherinternetguy.github.io/modern/</h1>
+<h1 align="center">https://justanotherinternetguy.github.io</h1>
 
