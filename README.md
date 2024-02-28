@@ -8,7 +8,7 @@ teenager learning to code, hmu on discord (below)
 
 </div>
 
-<b>CONTACT ME</b>: <code>naxarra</code> (discord)
+<b>CONTACT ME</b>: <code>justanotherinternetguy</code> (discord)
 
 
 <h1 align="center">https://justanotherinternetguy.github.io</h1>
